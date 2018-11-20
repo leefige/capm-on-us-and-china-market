@@ -24,7 +24,7 @@
 
 #### CAPM
 
-![usa capm](fig/a-c.png)
+![usa capm](fig/a-c.PNG)
 
 对于1963-1984，从SML看，CAPM近似成立（至少斜率是正值），但可以看到截距大于0，说明有一部分超额回报无法解释
 
